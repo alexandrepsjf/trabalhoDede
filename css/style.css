@@ -1,0 +1,29 @@
+#titleJF {
+    font-size: 3em;
+
+}
+.logojf{
+    width: 8%;
+}
+
+#nav-wrapper{
+
+}
+
+.pontos-btn{
+    margin-bottom: 2em;
+}
+.slides img {
+    opacity: 0.5;
+}
+#trilha{
+    padding: 0;
+    height: 3em
+}
+.shadowOrange {
+    text-shadow: 1px 1px #ff9e00;
+}
+.slides{
+    padding: 0px;
+
+}
